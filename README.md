@@ -1,1 +1,1 @@
-Solution for https://roadmap.sh/projects/js-temperature-converter
+Solution for https://roadmap.sh/projects/js-number-checker
